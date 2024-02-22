@@ -1,0 +1,5 @@
+DeepForest
+rasterio
+geopandas
+label-studio
+label-studio-sdk
